@@ -1,0 +1,29 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.logo-title {
+	display: flex;
+	justify-content:space-between;
+}
+.logo-area{
+	width:100%
+}
+.trait{
+	color:#00AA9C;
+}
+
+.block1 ,.block2, .block3 {
+	border: 3px solid #00AA9C;
+	padding: 5px;
+	width:30%;
+}
+
+#nf-field-8 {
+	background-color:#00AA9C;
+}
+.zoom {
+	transition: transform .2s;
+}
+.zoom:hover {
+ 	transform: scale(1.1); 
+}</style>
+<!-- end Simple Custom CSS and JS -->
